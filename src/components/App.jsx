@@ -221,19 +221,38 @@ export const App = () => {
 
             {/* Soft skills  */}
             <SidearCont>
-              <h3 class="sidear-titel">Soft Skills</h3>
+              <SidearTitel>Soft Skills</SidearTitel>
               <SkillsList>
                 <SkillsListI>
                   {' '}
-                  <SkillsListT>listening skills</SkillsListT>{' '}
+                  <SkillsListT>Attentive</SkillsListT>{' '}
                 </SkillsListI>
                 <SkillsListI>
                   {' '}
-                  <SkillsListT>Adapting to situation</SkillsListT>{' '}
+                  <SkillsListT>Eager to learn</SkillsListT>{' '}
                 </SkillsListI>
                 <SkillsListI>
                   {' '}
                   <SkillsListT>Teamwork</SkillsListT>{' '}
+                </SkillsListI>
+                <SkillsListI>
+                  {' '}
+                  <SkillsListT>Flexible</SkillsListT>{' '}
+                </SkillsListI>
+              </SkillsList>
+            </SidearCont>
+            <SidearCont>
+              <SidearTitel>Languages</SidearTitel>
+              <SkillsList>
+                <SkillsListI>
+                  {' '}
+                  <SkillsListT>English - Average </SkillsListT>{' '}
+                </SkillsListI>
+                <SkillsListI>
+                  <SkillsListT>Ukrainian - Native</SkillsListT>{' '}
+                </SkillsListI>
+                <SkillsListI>
+                  <SkillsListT>Russian - Fluent</SkillsListT>
                 </SkillsListI>
               </SkillsList>
             </SidearCont>

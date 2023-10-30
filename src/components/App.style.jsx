@@ -81,7 +81,7 @@ export const ProjectItemLink = styled.a`
 
   text-decoration-line: underline;
 
-  color: #005fff;
+  color: #ff751a;
 `;
 export const EducationList = styled.p`
   font-style: normal;
@@ -89,7 +89,7 @@ export const EducationList = styled.p`
   font-size: 16px;
   line-height: 20px;
 
-  color: #6d9bf5;
+  color: #ff751a;
 `;
 export const EducationItem = styled.p`
   font-style: normal;
@@ -116,7 +116,7 @@ export const WorkExperiencePres = styled.div`
   margin: 16px 0 8px 0;
 `;
 export const WorkExperienceCompani = styled.h4`
-  color: #6d9bf5;
+  color: #ff751a;
 `;
 export const WorkPeriod = styled.p`
   font-style: normal;
@@ -141,7 +141,7 @@ export const SidearTitel = styled.h3`
 `;
 export const Sidear = styled.aside`
   width: 370px;
-  background: #e0ebfe;
+  background: #ffbb99;
 `;
 export const SidearCont = styled.div`
   margin: 40px 0 0 40px;
@@ -168,7 +168,7 @@ export const SkillsList = styled.ul`
   padding: 0 0 0 20px;
 `;
 export const SkillsListI = styled.li`
-  color: #6d9bf5;
+  color: #2979ff;
 `;
 export const SkillsListT = styled.span`
   font-style: normal;
